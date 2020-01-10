@@ -1,0 +1,2 @@
+# LTCBot
+Bot LTC 
